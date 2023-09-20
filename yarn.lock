@@ -392,10 +392,10 @@
     read-package-json-fast "^3.0.0"
     which "^3.0.0"
 
-"@octokit/auth-action@^2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@octokit/auth-action/-/auth-action-2.0.3.tgz#c86acd2e7ae8083186fcb45a3bc406cd8f0c3749"
-  integrity sha512-GtUtNR7AmDV8bjNtt+EuqwE2Ipeq0aR10zPInp/B6msgoXL7UPqj2bI+8M/A/y7abGJ3U4h85wXoqZSralnDxw==
+"@octokit/auth-action@^2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@octokit/auth-action/-/auth-action-2.1.1.tgz#19b9615991808345b4f0d5c02c75d6e7f2dfe85f"
+  integrity sha512-396owpMa68wKT9tVf1rInQ0I8WdSJUXbEPWTDyIwqVGEd0xemKJwGHPv768Dh24BSJHY96MsUXJZ8CRaz28XCw==
   dependencies:
     "@octokit/auth-token" "^3.0.0"
     "@octokit/types" "^9.0.0"

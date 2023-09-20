@@ -75,7 +75,7 @@
     "@actions/core": "^1.10.0",
     "@actions/exec": "^1.1.1",
     "@actions/tool-cache": "^2.0.1",
-    "@octokit/auth-action": "^2.0.3",
+    "@octokit/auth-action": "^2.1.1",
     "@octokit/rest": "^19.0.7",
     "string-argv": "^0.3.1"
   },
